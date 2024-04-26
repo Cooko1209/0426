@@ -1,0 +1,10 @@
+D:\測試用成果\sssh\sssh\bin\Debug\sssh.exe.config
+D:\測試用成果\sssh\sssh\bin\Debug\sssh.exe
+D:\測試用成果\sssh\sssh\bin\Debug\sssh.pdb
+D:\測試用成果\sssh\sssh\obj\Debug\sssh.csproj.AssemblyReference.cache
+D:\測試用成果\sssh\sssh\obj\Debug\sssh.Form1.resources
+D:\測試用成果\sssh\sssh\obj\Debug\sssh.Properties.Resources.resources
+D:\測試用成果\sssh\sssh\obj\Debug\sssh.csproj.GenerateResource.cache
+D:\測試用成果\sssh\sssh\obj\Debug\sssh.csproj.CoreCompileInputs.cache
+D:\測試用成果\sssh\sssh\obj\Debug\sssh.exe
+D:\測試用成果\sssh\sssh\obj\Debug\sssh.pdb
